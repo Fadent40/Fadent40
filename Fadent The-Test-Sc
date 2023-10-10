@@ -64,7 +64,7 @@ TextUnten.Text = "Credits SCP.SF#2024"
 TextUnten.TextColor3 = Color3.new(0, 0, 0)
 TextUnten.TextSize = 24
 
-Start.Name = "Win Minigame<3"
+Start.Name = "Win Test"
 Start.Parent = Main
 Start.BackgroundColor3 = Color3.new(1, 1, 1)
 Start.BackgroundTransparency = 1
