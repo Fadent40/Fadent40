@@ -50,7 +50,7 @@ TextOben.BorderColor3 = Color3.new(0, 0, 0)
 TextOben.Position = UDim2.new(-0.116279073, 0, -0.0900473967, 0)
 TextOben.Size = UDim2.new(0, 212, 0, 31)
 TextOben.Font = Enum.Font.SciFi
-TextOben.Text = "The Test Alpha"
+TextOben.Text = "The Test Script"
 TextOben.TextColor3 = Color3.new(0, 0, 0)
 TextOben.TextSize = 30
 
@@ -60,7 +60,7 @@ TextUnten.BackgroundColor3 = Color3.new(0, 0.333333, 1)
 TextUnten.Position = UDim2.new(-0.116279073, 0, 0.928909957, 0)
 TextUnten.Size = UDim2.new(0, 212, 0, 31)
 TextUnten.Font = Enum.Font.SciFi
-TextUnten.Text = "Credits SCP.SF#2024"
+TextUnten.Text = "Credits: FadentYT"
 TextUnten.TextColor3 = Color3.new(0, 0, 0)
 TextUnten.TextSize = 24
 
@@ -72,7 +72,7 @@ Start.BorderSizePixel = 0
 Start.Position = UDim2.new(0.0755813941, 0, 0.113744073, 0)
 Start.Size = UDim2.new(0, 146, 0, 54)
 Start.Font = Enum.Font.Cartoon
-Start.Text = "Win Minigame<3"
+Start.Text = "Win Test"
 Start.TextColor3 = Color3.new(0, 0, 0)
 Start.TextSize = 40
 Start.MouseButton1Down:connect(function()
