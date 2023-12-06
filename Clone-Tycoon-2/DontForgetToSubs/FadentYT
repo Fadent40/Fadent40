@@ -2,3 +2,14 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 
 local Window = OrionLib:MakeWindow({Name = "Fadent Hub Clone Tycoon 2", HidePremium = false, IntroText = "Welcome to Fadent Hub", SaveConfig = true, ConfigFolder = "Fadent Hub Clone Tycoon 2"})
 
+
+
+
+
+
+
+
+
+
+end
+OrionLib:Destroy()
