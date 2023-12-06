@@ -2,7 +2,17 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 
 local Window = OrionLib:MakeWindow({Name = "Fadent Hub Clone Tycoon 2", HidePremium = false, IntroText = "Welcome to Fadent Hub", SaveConfig = true, ConfigFolder = "Fadent Hub Clone Tycoon 2"})
 
+local TutTab = Window:MakeTab({
+	Name = "Main",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
 
+--[[
+Name = <string> - The name of the tab.
+Icon = <string> - The icon of the tab.
+PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
+]]
 
 
 
