@@ -1,0 +1,15 @@
+ 
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wizard"))()
+ 
+local PhantomForcesWindow = Library:NewWindow("Fadent HUB CT2")
+ 
+local KillingCheats = PhantomForcesWindow:NewSection("Must equip pickaxe)
+ 
+KillingCheats:CreateTextbox("TextBox", function(text)
+        print(text)
+end)
+ 
+KillingCheats:CreateToggle("farm coin", function(value)
+print(value)
+end)
+ 
